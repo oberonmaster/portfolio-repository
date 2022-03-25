@@ -24,6 +24,3 @@ for next_step in range(len(message)):
     result += next_letter
 
 print('Зашифрованное сообщение:', result)
-
-# зачет!
-
